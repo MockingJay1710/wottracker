@@ -1,0 +1,68 @@
+# =========================
+# Build outputs
+# =========================
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+*.log
+
+# =========================
+# Visual Studio user files
+# =========================
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.rsuser
+
+# =========================
+# Debug/Release folders (sometimes created outside bin/obj)
+# =========================
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]ny [Cc]pu/
+
+# =========================
+# NuGet
+# =========================
+# With packages.config, don't commit the /packages folder
+packages/
+# NuGet v3+ cache / lock files (optional)
+*.nupkg
+project.assets.json
+packages.lock.json
+
+# =========================
+# Publish / artifacts
+# =========================
+publish/
+*.pdb
+*.cache
+*.tmp
+
+# =========================
+# ReSharper / Rider / other IDEs
+# =========================
+_ReSharper*/
+*.DotSettings.user
+.idea/
+
+# =========================
+# Windows / OS junk
+# =========================
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.stackdump
+
+# =========================
+# (Optional) If you generate Excel/PDF outputs locally
+# Uncomment if your app produces these files
+# =========================
+# *.xlsx
+# *.xls
+# *.pdf
+

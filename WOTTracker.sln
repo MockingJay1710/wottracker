@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WOTTracker", "WOTTracker.csproj", "{46492DDA-2FA4-43BA-A73C-1E15BD78A2C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WOTTracker.Tests", "..\WOTTracker.Tests\WOTTracker.Tests.csproj", "{0AF07CEB-12A6-45CE-BEC1-905711537DF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46492DDA-2FA4-43BA-A73C-1E15BD78A2C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46492DDA-2FA4-43BA-A73C-1E15BD78A2C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46492DDA-2FA4-43BA-A73C-1E15BD78A2C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46492DDA-2FA4-43BA-A73C-1E15BD78A2C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AF07CEB-12A6-45CE-BEC1-905711537DF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AF07CEB-12A6-45CE-BEC1-905711537DF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AF07CEB-12A6-45CE-BEC1-905711537DF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AF07CEB-12A6-45CE-BEC1-905711537DF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B809AA0-75E5-4313-AAAD-D8900F674502}
+	EndGlobalSection
+EndGlobal
